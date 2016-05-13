@@ -1,14 +1,8 @@
-layout_spectrum: 0.6616012
-typography_spectrum: 0.7796674
+layout_spectrum: 0.8897243
+typography_spectrum: 0.5200501
 color:
   saturation: 0.9200105
-  lightness: 0.4532922
+  lightness: 0.6146616
   brandStrength: 0.2876224
-  rhythmicContrast: 0.92819
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+  rhythmicContrast: 0.7863408
 name: Yukonjak Alaskan malamutes
